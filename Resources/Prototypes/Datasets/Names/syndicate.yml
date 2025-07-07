@@ -1,0 +1,24 @@
+# SPDX-FileCopyrightText: 2022 Pancake <Pangogie@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Scribbles0 <91828755+Scribbles0@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: MIT
+
+- type: localizedDataset
+  id: NamesSyndicateNormal
+  values:
+    prefix: names-syndicate-normal-dataset-
+    count: 25
+
+- type: localizedDataset
+  id: NamesSyndicateElite
+  values:
+    prefix: names-syndicate-elite-dataset-
+    count: 23
+
+- type: localizedDataset
+  id: NamesSyndicatePrefix
+  values:
+    prefix: names-syndicate-prefix-dataset-
+    count: 2
